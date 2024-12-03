@@ -1,0 +1,515 @@
+body{
+    position: relative;
+}
+
+
+
+/*header starst*/
+
+
+
+
+
+
+
+header{
+    background-color: aqua;
+width: 100%;
+display: flex;
+position: fixed;
+top: 0;
+box-shadow: 5px 5px 5px  rgb(116, 190, 190);
+
+
+
+}
+#logo{
+    color: rgb(106, 240, 29);
+    font-weight: bold;
+}
+.nab{
+    margin-left: 150px;
+}
+.nab ul{
+    display: flex;
+    margin: 10px;
+
+}
+.nab ul li{
+    margin: 20px;
+    list-style: none;
+    m
+    
+
+}
+.nab ul li a{
+    text-decoration: none;
+    color:green ;
+    text-width:bold;
+    font-size:25px
+    border:5px solid aqua;
+    padding: 10px;
+
+}
+.nab ul li a:hover{
+    border-bottom: 5px solid wheat;
+   
+}
+
+/*header end*/
+.searce {
+    margin-top: 200px;
+    margin-left: 300px;
+    height: 30px;
+    width: 700px;
+    border: 3px solid rgba(228, 220, 205, 0.836);
+    border-radius: 50px;
+    text-align: center;
+}
+
+.back{
+    margin-top: 100px;
+    background-image: url(picture.png/islac100.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-width:100%;
+    width: 100%;
+    height: 800px;
+    background -image-position: -120px -357px;
+    
+    justify-content: center;
+    position: relative;
+}
+.back h2{
+    font-size:70px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-top: 350px;
+    position: absolute;
+    text-align: center;
+    color: rgb(190, 216, 199);
+    text-shadow: 5px -6px 5px black;
+}
+
+/*food start*/
+.food{
+    height: 900px;
+    width: 500px;
+    justify-content: center;
+    margin-left: 50px;
+}
+#fo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    backgroun-padding:200px;
+    margin-top: 200px;
+}
+.fd1{
+    display:grid ;
+    background-color:
+    width:;
+    grid-template-columns: repeat(4, 250px);
+    grid-template-rows: repeat(10,200px);
+    grid-gap:20px;
+    color: aqua;
+    text: bottom 0;
+    font-size: 20px;
+    
+}
+.food1{
+    background-image: url(picture.png/foo.jpeg);
+    background-repeat: no-repeat;
+}
+.food2{
+    background-image: url(picture.png/food102.jpeg);
+    background-repeat: no-repeat;
+}
+.food3{
+    background-image: url(picture.png/food.104.jpeg);
+    background-repeat: no-repeat;
+}
+.food4{
+    background-image: url(picture.png/food105.jpeg);
+    background-repeat: no-repeat;
+}
+.food5{
+    background-image: url(picture.png/food106.jpeg);
+    background-repeat: no-repeat;
+}
+.food6{
+    background-image: url(picture.png/food107.jpeg);
+    background-repeat: no-repeat;
+}
+.food7{
+    background-image: url(picture.png/food108.jpeg);
+    background-repeat: no-repeat;
+}
+.food8{
+    background-image: url(picture.png/food109.jpeg);
+    background-repeat: no-repeat;
+}
+.food9{
+    background-image: url(picture.png/food110.jpeg);
+    background-repeat: no-repeat;
+}
+.food10{
+    background-image: url(picture.png/food111.jpeg);
+    background-repeat: no-repeat;
+}
+
+
+.food11{
+    background-image: url(picture.png/food112.jpeg);
+    background-repeat: no-repeat;
+}
+.food12{
+    background-image: url(picture.png/food113.jpeg);
+    background-repeat: no-repeat;
+}
+.food13{
+    background-image: url(picture.png/food114.jpeg);
+    background-repeat: no-repeat;
+}
+.food15{
+    background-image: url(picture.png/food116.jpeg);
+    background-repeat: no-repeat;
+}
+.food16{
+    background-image: url(picture.png/food117.jpeg);
+    background-repeat: no-repeat;
+}
+.food17{
+    background-image: url(picture.png/food118.jpeg);
+    background-repeat: no-repeat;
+}
+.food18{
+    background-image: url(picture.png/food119.jpeg);
+    background-repeat: no-repeat;
+}
+.food19{
+    background-image: url(picture.png/food120.jpeg);
+    background-repeat: no-repeat;
+}
+.food20{
+    background-image: url(picture.png/food101.jpeg);
+    background-repeat: no-repeat;
+}
+.food14{
+    background-image: url(picture.png/food115.jpeg);
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*food end*/
+/*fruit start*/
+
+.fr2{
+    margin-top: 400px;
+    margin-left: 50px;
+
+}
+.fr2 h1{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.fr1{
+    display:grid ;
+    margin: ;
+
+    grid-template-columns: repeat(4, 250px);
+    grid-template-rows: repeat(3,200px);
+    grid-gap:20px;
+    color: aqua;
+    
+    font-size: 20px;
+}
+
+.fruite1{
+    background-image: url(picture.png/fruit100.jpeg);
+    background-repeat: no-repeat;
+}
+
+.fruite2{
+    background-image: url(picture.png/fruit101.jpeg);
+    background-repeat: no-repeat;
+}
+
+.fruite3{
+    background-image: url(picture.png/fruit102.jpeg);
+    background-repeat: no-repeat;
+}
+
+.fruite4{
+    background-image: url(picture.png/fruit103.jpeg);
+    background-repeat: no-repeat;
+}
+
+.fruite5{
+    background-image: url(picture.png/fruit104.jpeg);
+    background-repeat: no-repeat;
+}
+
+.fruite6{
+    background-image: url(picture.png/fruit105.jpeg);
+    background-repeat: no-repeat;
+}
+
+.fruite7{
+    background-image: url(picture.png/fruit106.jpeg);
+    background-repeat: no-repeat;
+}
+
+.fruite8{
+    background-image: url(picture.png/fruit107.jpeg);
+    background-repeat: no-repeat;
+}
+
+.fruite9{
+    background-image: url(picture.png/fruit108.jpeg);
+    background-repeat: no-repeat;
+}
+
+.fruite10{
+    background-image: url(picture.png/fruit109.jpeg);
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+/*fruit end*/
+
+/*accesories start*/
+
+.acces1{
+    margin-top: ;
+    margin-left: 50px;
+}
+.acces1 h1{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+} 
+.acces2{
+    display:grid ;
+    margin: ;
+
+    grid-template-columns: repeat(4, 250px);
+    grid-template-rows: repeat(3,200px);
+    grid-gap:20px;
+    color: aqua;
+    text: bottom 0;
+    font-size: 20px;
+}
+.islac1{
+    background-image: url(picture.png/islac100.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islac2{
+    background-image: url(picture.png/islac101.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islac3{
+    background-image: url(picture.png/islac102.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islac4{
+    background-image: url(picture.png/islac103.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islac5{
+    background-image: url(picture.png/islac104.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islac6{
+    background-image: url(picture.png/islac105.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islac7{
+    background-image: url(picture.png/islac106.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islac8{
+    background-image: url(picture.png/islac107.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islac9{
+    background-image: url(picture.png/islac108.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islac10{
+    background-image: url(picture.png/islac109.jpeg);
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+/*accesories end*/
+
+/*isl book start*/
+
+.isb1{
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.isb1 h1{
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+    font-size: 50px;
+}
+
+
+
+
+
+
+.isb2{
+    display:grid ;
+    margin: ;
+    
+    grid-template-columns: repeat(4, 250px);
+    grid-template-rows: repeat(5,200px);
+    grid-gap:20px;
+    color: aqua;
+    
+    font-size: 20px;
+}
+.islb1{
+    background-image: url(picture.png/isbook100.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islb2{
+    background-image: url(picture.png/isbook101.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islb3{
+    background-image: url(picture.png/isbook102.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islb4{
+    background-image: url(picture.png/isbook103.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islb5{
+    background-image: url(picture.png/isbook104.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islb6{
+    background-image: url(picture.png/isbook105.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islb7{
+    background-image: url(picture.png/isbook106.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islb8{
+    background-image: url(picture.png/isbook107.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islb9{
+    background-image: url(picture.png/isbook108.jpeg);
+    background-repeat: no-repeat;
+}
+
+.islb10{
+    background-image: url(picture.png/isbook109.jpeg);
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+/*isl book end*/
+
+
+
+
+
+/*footer start*/
+footer{
+    background-color: rgb(26, 24, 24);
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    
+    color: aliceblue;
+    
+}
+
+
+
+.texf{
+    font-size: 25px;
+    font-weight: bold;
+}
+.textf{
+    width: 400px;
+    margin: 0 auto;
+}
+.en1{
+    background-color: black;
+    font-size: 20px;
+}
+
+/*footer end*/
+
+
+
+
+
+
+
